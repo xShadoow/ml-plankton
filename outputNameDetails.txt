@@ -1,0 +1,55 @@
+--- training ---
+snow=81523
+pluteus=17558
+diatoms=8335
+copepods=2695
+worms=2510
+blurry=1416
+appendicularia_house=999
+noctiluca=995
+polychaeta=957
+mnemiopsis=882
+pteropods=701
+appendicularia=650
+unknown=608
+bipinnaria=565
+eggs=496
+medusae=470
+malacostraca=449
+zoea_larvae=327
+rod=315
+veliger_larvae=297
+amphipods=288
+larvae=275
+phaeocystis=267
+actinotrocha=248
+pilidium=169
+echinodermata=119
+IntSummaryStatistics{count=26, sum=124114, min=119, average=4773,615385, max=81523}
+
+--- test ---
+snow=61772
+pluteus=11416
+noctiluca=4064
+diatoms=3552
+copepods=2997
+rod=2870
+blurry=2428
+worms=1655
+appendicularia_house=1373
+unknown=1142
+polychaeta=401
+appendicularia=373
+medusae=244
+malacostraca=152
+mnemiopsis=152
+bipinnaria=98
+veliger_larvae=81
+pilidium=75
+zoea_larvae=59
+larvae=23
+actinotrocha=16
+eggs=5
+IntSummaryStatistics{count=22, sum=94948, min=5, average=4315,818182, max=61772}
+
+Process finished with exit code 0
